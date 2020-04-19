@@ -59,7 +59,7 @@ export var kkMusic = [
   {name: "白日梦", checked: true},
   {name: "冲吧！K.K.摩托车手", checked: true},
   {name: "冲绳K.K.", checked: true},
-  {name: "船歌2001", checked: false},
+  {name: "船歌2001", checked: true},
   {name: "春暖花开", checked: true},
   {name: "大家集合吧", checked: true},
   {name: "电吉他乐曲", checked: false},
