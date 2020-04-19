@@ -1,6 +1,7 @@
 <template>
   <div class="kk">
     <h1>K.K.专辑</h1>
+    <p>共获得{{ checkedCount }}，剩余{{ notcheckedCount }}</p>
     <el-table
       ref="multipleTable"
       :height="height"
@@ -26,7 +27,9 @@ export default {
   data () {
     return {
       music: kkMusic,
-      height: 600
+      height: 600,
+      checkedCount: 0,
+      notcheckedCount: kkMusic.length
     }
   },
   methods: {
@@ -51,11 +54,20 @@ export default {
         this.$refs.multipleTable.clearSelection();
       }
     },
+    count() {
+      this.music.forEach((item) => {
+        if (item.checked) {
+          this.checkedCount++;
+          this.notcheckedCount--;
+        }
+      });
+    }
   },
   mounted() {
     this.height = document.documentElement.clientHeight || document.body.clientHeight;
     this.height -= 100;
     this.toggleSelection(this.music);
+    this.count();
   },
 }
 </script>
