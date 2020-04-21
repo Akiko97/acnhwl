@@ -22,7 +22,7 @@ export var kkMusic = [
   {name: "K.K.蓝调", checked: false},
   {name: "K.K.老师", checked: true},
   {name: "K.K.乐曲", checked: true},
-  {name: "K.K.雷鬼", checked: false},
+  {name: "K.K.雷鬼", checked: true},
   {name: "K.K.练习曲", checked: true},
   {name: "K.K.灵魂乐", checked: true},
   {name: "K.K.领主", checked: true},
