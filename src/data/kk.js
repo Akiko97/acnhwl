@@ -16,7 +16,7 @@ export var kkMusic = [
   {name: "K.K.吉普赛", checked: false},
   {name: "K.K.嘉年华", checked: false},
   {name: "K.K.金属摇滚", checked: false},
-  {name: "K.K.进行曲", checked: false},
+  {name: "K.K.进行曲", checked: true},
   {name: "K.K.爵士乐", checked: true},
   {name: "K.K.卡利普索", checked: true},
   {name: "K.K.蓝调", checked: false},
