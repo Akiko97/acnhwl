@@ -8,7 +8,7 @@ export var kkMusic = [
   {name: "K.K.迪斯科", checked: false},
   {name: "K.K.电子民谣", checked: false},
   {name: "K.K.放克", checked: true},
-  {name: "K.K.非洲音乐", checked: false},
+  {name: "K.K.非洲音乐", checked: true},
   {name: "K.K.佛朗明哥", checked: true},
   {name: "K.K.甘美朗", checked: false},
   {name: "K.K.好莱坞", checked: true},
