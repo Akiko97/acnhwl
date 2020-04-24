@@ -74,7 +74,7 @@ export var kkMusic = [
   {name: "鼓打贝斯", checked: false},
   {name: "极简音乐", checked: false},
   {name: "惊悚歌", checked: true},
-  {name: "蓝色饭团", checked: false},
+  {name: "蓝色饭团", checked: true},
   {name: "流浪", checked: false},
   {name: "漫弥", checked: false},
   {name: "秘鲁之歌", checked: false},
