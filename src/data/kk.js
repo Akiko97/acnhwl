@@ -68,7 +68,7 @@ export var kkMusic = [
   {name: "动物岛", checked: false},
   {name: "都市K.K.", checked: false},
   {name: "兜风", checked: false},
-  {name: "二段斜坡", checked: false},
+  {name: "二段斜坡", checked: true},
   {name: "哥萨克乐曲", checked: true},
   {name: "格拉泰姆音乐", checked: true},
   {name: "鼓打贝斯", checked: false},
