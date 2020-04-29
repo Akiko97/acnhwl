@@ -28,7 +28,7 @@ export var kkMusic = [
   {name: "K.K.领主", checked: true},
   {name: "K.K.律动", checked: true},
   {name: "K.K.曼波", checked: true},
-  {name: "K.K.米隆加", checked: false},
+  {name: "K.K.米隆加", checked: true},
   {name: "K.K.民谣", checked: true},
   {name: "K.K.偶像", checked: false},
   {name: "K.K.情歌", checked: true},
