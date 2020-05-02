@@ -30,7 +30,7 @@ export var kkMusic = [
   {name: "K.K.曼波", checked: true},
   {name: "K.K.米隆加", checked: true},
   {name: "K.K.民谣", checked: true},
-  {name: "K.K.偶像", checked: false},
+  {name: "K.K.偶像", checked: true},
   {name: "K.K.情歌", checked: true},
   {name: "K.K.融合爵士乐", checked: true},
   {name: "K.K.萨尔萨", checked: true},
