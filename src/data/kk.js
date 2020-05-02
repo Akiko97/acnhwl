@@ -92,6 +92,6 @@ export var kkMusic = [
   {name: "新奥尔良乐曲", checked: true},
   {name: "意大利面", checked: false},
   {name: "再会", checked: false},
-  {name: "昭和K.K.歌谣", checked: false},
+  {name: "昭和K.K.歌谣", checked: true},
   {name: "只有我", checked: false}
 ];
