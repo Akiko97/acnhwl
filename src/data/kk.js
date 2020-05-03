@@ -77,7 +77,7 @@ export var kkMusic = [
   {name: "蓝色饭团", checked: true},
   {name: "流浪", checked: false},
   {name: "漫弥", checked: false},
-  {name: "秘鲁之歌", checked: false},
+  {name: "秘鲁之歌", checked: true},
   {name: "墨西哥绅士K.K.", checked: true},
   {name: "你的生日", checked: false},
   {name: "欧陆节拍", checked: true},
