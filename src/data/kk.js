@@ -5,7 +5,7 @@ export var kkMusic = [
   {name: "K.K.波蕾洛", checked: false},
   {name: "K.K.大和祭典", checked: false},
   {name: "K.K.迪克西", checked: true},
-  {name: "K.K.迪斯科", checked: false},
+  {name: "K.K.迪斯科", checked: true},
   {name: "K.K.电子民谣", checked: false},
   {name: "K.K.放克", checked: true},
   {name: "K.K.非洲音乐", checked: true},
