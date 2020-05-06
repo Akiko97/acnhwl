@@ -66,7 +66,7 @@ export var kkMusic = [
   {name: "电音节奏", checked: false},
   {name: "动物城镇", checked: false},
   {name: "动物岛", checked: false},
-  {name: "都市K.K.", checked: false},
+  {name: "都市K.K.", checked: true},
   {name: "兜风", checked: false},
   {name: "二段斜坡", checked: true},
   {name: "哥萨克乐曲", checked: true},
