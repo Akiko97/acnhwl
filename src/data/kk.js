@@ -50,7 +50,7 @@ export var kkMusic = [
   {name: "K.K.摇篮曲", checked: false},
   {name: "K.K.印度王公", checked: true},
   {name: "K.K.咏叹调", checked: true},
-  {name: "K.K.圆舞曲", checked: false},
+  {name: "K.K.圆舞曲", checked: true},
   {name: "K.K.赞美诗歌", checked: true},
   {name: "K.K.中华", checked: true},
   {name: "K.K.奏鸣曲", checked: true},
