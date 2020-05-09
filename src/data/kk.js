@@ -81,7 +81,7 @@ export var kkMusic = [
   {name: "墨西哥绅士K.K.", checked: true},
   {name: "你的生日", checked: false},
   {name: "欧陆节拍", checked: true},
-  {name: "前天", checked: false},
+  {name: "前天", checked: true},
   {name: "散散步", checked: true},
   {name: "森林生活", checked: true},
   {name: "思考中", checked: false},
