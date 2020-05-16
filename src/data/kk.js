@@ -35,7 +35,7 @@ export var kkMusic = [
   {name: "K.K.融合爵士乐", checked: true},
   {name: "K.K.萨尔萨", checked: true},
   {name: "K.K.三味线", checked: true},
-  {name: "K.K.桑巴", checked: false},
+  {name: "K.K.桑巴", checked: true},
   {name: "K.K.斯卡", checked: false},
   {name: "K.K.探戈", checked: false},
   {name: "K.K.西部", checked: true},
@@ -91,7 +91,7 @@ export var kkMusic = [
   {name: "夏威夷K.K.", checked: true},
   {name: "新奥尔良乐曲", checked: true},
   {name: "意大利面", checked: false},
-  {name: "再会", checked: false},
+  {name: "再会", checked: true},
   {name: "昭和K.K.歌谣", checked: true},
   {name: "只有我", checked: false}
 ];
