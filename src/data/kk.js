@@ -90,7 +90,7 @@ export var kkMusic = [
   {name: "我的归所", checked: true},
   {name: "夏威夷K.K.", checked: true},
   {name: "新奥尔良乐曲", checked: true},
-  {name: "意大利面", checked: false},
+  {name: "意大利面", checked: true},
   {name: "再会", checked: true},
   {name: "昭和K.K.歌谣", checked: true},
   {name: "只有我", checked: false}
