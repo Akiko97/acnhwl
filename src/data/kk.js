@@ -54,7 +54,7 @@ export var kkMusic = [
   {name: "K.K.赞美诗歌", checked: true},
   {name: "K.K.中华", checked: true},
   {name: "K.K.奏鸣曲", checked: true},
-  {name: "阿尔卑斯山乐曲", checked: false},
+  {name: "阿尔卑斯山乐曲", checked: true},
   {name: "爱尔兰乐曲", checked: true},
   {name: "白日梦", checked: true},
   {name: "冲吧！K.K.摩托车手", checked: true},
